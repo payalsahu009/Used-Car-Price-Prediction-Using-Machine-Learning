@@ -1,0 +1,2 @@
+# Used-Car-Price-Prediction-Using-Machine-Learning
+Developed machine learning models to predict used car prices. After conducting EDA and preprocessing the dataset, we trained Linear Regression and Random Forest Regression models. The Random Forest model outperformed Linear Regression, providing better predictive accuracy. Feature importance analysis highlighted key factors influencing car prices.
